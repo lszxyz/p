@@ -14,3 +14,18 @@
 - 尽量避免使用国产软件，不安装杀毒软件，不用wps，不用xx极速浏览器，包管理推荐scoop，软件推荐从awesome windows找符合自己的
 - 某些流氓软件建议在虚拟机里面跑
 
+##### 推荐软件列表:
+- quicklook
+- powertoys
+- TrafficMonitor
+- windows-terminal
+- vscode 
+- 7zip 解压
+- telegram 聊天
+- listen1 听歌
+- potplayer 看视频
+- chrome/chroimun 浏览器
+- v2rayn/clash 上网必备(搭配fiddler)
+- virtualbox 有些东西还是跑虚拟机合适点
+
+##### 随着google上的中文垃圾内容越来越多,建议插件直接拉黑,blacklist-website.
